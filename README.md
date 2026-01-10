@@ -5,12 +5,7 @@ What Is TUR
 
 This is the community-driven repository for Triaxis GNU/Linux.
 
-## Structure
-- **PKGBUILDs/** → Package build scripts
-- **docs/** → Documentation
-- **scripts/** → Helper scripts
-- **branding/** → Logos, glyphs, folklore entries
-- **README.md** → Overview
+Lists Are deb packages git clone apt and snaps
 
 Inspired by Arch’s AUR, but tailored for Triaxis GNU/Linux.
 
