@@ -1,0 +1,8 @@
+TUR LIST
+ ├── deb/             # Direct .deb packages
+ ├── git/             # Git clone sources
+ ├── apt/             # Apt repository entries
+ ├── snaps/           # Snap packages
+ ├── docs/            # Documentation (how to use TUR)
+ ├── scripts/         # Helper scripts (install/remove)
+ └── README.md        # Overview
